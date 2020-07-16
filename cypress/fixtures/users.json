@@ -1,0 +1,11 @@
+{
+  "data": {
+    "users": [
+      { "id": 1, "name": "Jeff", "__typename": "User" },
+      { "id": 2, "name": "Mavis", "__typename": "User" },
+      { "id": 3, "name": "Beryl", "__typename": "User" },
+      { "id": 4, "name": "Shadow", "__typename": "User" },
+      { "id": 5, "name": "Buzz", "__typename": "User" }
+    ]
+  }
+}
